@@ -3,3 +3,8 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
+
+branding:
+  logo: .gitbook/assets/logo.png
+  # Use logo-dark.png for dark mode if needed
+  # logo-dark: .gitbook/assets/logo-dark.png
